@@ -1,0 +1,47 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 2076px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: "Bree Serif";
+  font-size: 3.75rem;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-text-2 {
+  line-height: 1.8;
+  font-size: 1.5rem;
+  margin: 32px 205px 60px 230px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-2 {
+    width: 680px;
+    margin-left: 130px;
+    margin-right: 105px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-2 {
+    margin-left: 15px;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-2 {
+    width: 540px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 340px;
+  }
+}
